@@ -32,5 +32,6 @@ What do you want to use as your public directory? dist
 ```
 ### Deployment
 ```
+yarn run build
 firebase deploy
 ```
