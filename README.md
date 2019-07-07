@@ -30,3 +30,7 @@ firebase init
 Select hosting
 What do you want to use as your public directory? dist
 ```
+### Deployment
+```
+firebase deploy
+```
