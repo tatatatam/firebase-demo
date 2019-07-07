@@ -28,7 +28,7 @@ yarn run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-##Firebase deploy
+## Firebase deploy
 
 ### Initialize Firebase 
 สร้าง Project ที่ Firebase Console <a href="https://console.firebase.google.com"   target="_blank" rel="noopener noreferrer"> Firebase Console</a>
